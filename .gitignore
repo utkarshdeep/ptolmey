@@ -1,2 +1,6 @@
+.idea/*
+project/*
+ptolmey.iml
+target/*
 *.class
 *.log
